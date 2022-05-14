@@ -1,0 +1,5 @@
+project: envtools
+target: envremap
+
+cmds:
+  - cmd: /envremap @@ out
